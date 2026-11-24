@@ -1,0 +1,13 @@
+{
+  "name": "one-day-one-world",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
